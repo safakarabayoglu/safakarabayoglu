@@ -6,13 +6,13 @@ But if I ever have the couragement to do, I am planning on developing some side 
 
 # Languages I know:
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py)](https://skillicons.dev)
 
 
 
 # Tools I use, or know how to use:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vim,bash)](https://skillicons.dev)
 
 <!--
 **safakarabayoglu/safakarabayoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
